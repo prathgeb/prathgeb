@@ -6,11 +6,11 @@
        alt="snake" /></a>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```javascript
 const prathgeb = {
-    pronouns: "He" | "Him",
+    gender: "male",
     code: ["PHP", "Java", "C", "Javascript"],
     askMeAbout: ["web dev", "teacher", "app dev", "htl steyr", "gastronaut"],
     technologies: {
