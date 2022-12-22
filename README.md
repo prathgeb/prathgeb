@@ -33,14 +33,9 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
-
-
- Last Updated on 22/12/2022 18:44:16 UTC
 <!--END_SECTION:waka-->
 
+---
   ## 📊 My activities
   <a href="https://github.com/prathgeb">
     <img width=450 height=170 align="center" alt="Peter Rathgeb" src="https://github-readme-stats.vercel.app/api?username=prathgeb&include_all_commits=true&count_private=true&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
