@@ -20,7 +20,7 @@ const prathgeb = {
         },
         mobileApp: {
             native: ["Android Development"],
-            web: ["vue.js", "Angular"]
+            web: ["vue.js", "Angular", "jQuery"]
         },
         devOps: ["Docker🐳", "Nginx", "Apache"],
         databases: ["MySql", "Mariadb", "MS SQL", "PostgreSQL", "sqlite"],
