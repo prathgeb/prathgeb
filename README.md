@@ -33,38 +33,28 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 201 Contributions in the Year 2022
- > 
-> 📦 8.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I Mostly Code in Java** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Java                     32 repos            ████████████░░░░░░░░░░░░░   48.48% 
-PHP                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+💬 Programming Languages: 
+Java                     18 mins             █████████████░░░░░░░░░░░░   53.5% 
+Groovy                   15 mins             ███████████░░░░░░░░░░░░░░   45.25% 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+
+🔥 Editors: 
+Android Studio           34 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
 
-
- Last Updated on 23/12/2022 01:32:09 UTC
+ Last Updated on 23/12/2022 18:46:32 UTC
 <!--END_SECTION:waka-->
 
 ---
