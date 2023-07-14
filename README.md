@@ -32,7 +32,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,7 +105,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2023 01:56:09 UTC
+ Last Updated on 14/07/2023 01:55:46 UTC
 <!--END_SECTION:waka-->
 
 ---
