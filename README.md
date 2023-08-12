@@ -32,7 +32,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,13 +77,17 @@ Sunday                   72 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 5 mins         ████████████████████░░░░░   79.78 % 
+YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Twig                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +103,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2023 01:10:00 UTC
+ Last Updated on 12/08/2023 01:08:19 UTC
 <!--END_SECTION:waka-->
 
 ---
