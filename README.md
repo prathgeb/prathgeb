@@ -42,8 +42,6 @@ const prathgeb = {
 
 > 📦 47.4 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -104,7 +102,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2024 01:22:23 UTC
+ Last Updated on 30/05/2024 01:19:08 UTC
 <!--END_SECTION:waka-->
 
 ---
