@@ -32,7 +32,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,6 @@ const prathgeb = {
 **🐱 My GitHub Data** 
 
 > 📦 47.5 kB Used in GitHub's Storage 
- > 
-> 🏆 77 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +102,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2024 01:24:10 UTC
+ Last Updated on 18/07/2024 01:22:46 UTC
 <!--END_SECTION:waka-->
 
 ---
