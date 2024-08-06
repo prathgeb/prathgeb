@@ -32,15 +32,17 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 114.9 kB Used in GitHub's Storage 
+> 📦 114.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,17 +77,18 @@ Sunday                   113 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      2 hrs 8 mins        █████████████████████████   99.90 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PHP                      4 hrs 19 mins       ████████████████████████░   97.53 % 
+Twig                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 2 hrs 8 mins        █████████████████████████   99.90 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PhpStorm                 4 hrs 25 mins       █████████████████████████   99.87 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +104,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2024 01:26:32 UTC
+ Last Updated on 06/08/2024 01:25:24 UTC
 <!--END_SECTION:waka-->
 
 ---
