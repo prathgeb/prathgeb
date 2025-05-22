@@ -32,8 +32,6 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
@@ -42,50 +40,12 @@ const prathgeb = {
 
 > 📦 127.4 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                598 commits         █████████░░░░░░░░░░░░░░░░   37.52 % 
-🌆 Daytime                681 commits         ███████████░░░░░░░░░░░░░░   42.72 % 
-🌃 Evening                314 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                348 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Thursday                 295 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Saturday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -99,7 +59,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 01:59:10 UTC
+ Last Updated on 22/05/2025 01:58:43 UTC
 <!--END_SECTION:waka-->
 
 ---
