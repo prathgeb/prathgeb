@@ -42,8 +42,6 @@ const prathgeb = {
 
 > 📦 127.4 kB Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -99,7 +97,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2025 01:57:40 UTC
+ Last Updated on 28/05/2025 01:59:41 UTC
 <!--END_SECTION:waka-->
 
 ---
