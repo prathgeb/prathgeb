@@ -40,7 +40,7 @@ const prathgeb = {
 
 **🐱 My GitHub Data** 
 
-> 📦 127.4 kB Used in GitHub's Storage 
+> 📦 127.3 kB Used in GitHub's Storage 
  > 
 > 🏆 101 Contributions in the Year 2025
  > 
@@ -99,7 +99,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 02:00:58 UTC
+ Last Updated on 13/06/2025 02:02:22 UTC
 <!--END_SECTION:waka-->
 
 ---
