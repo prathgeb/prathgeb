@@ -32,6 +32,8 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
@@ -40,7 +42,7 @@ const prathgeb = {
 
 > 📦 127.4 kB Used in GitHub's Storage 
  > 
-> 🏆 163 Contributions in the Year 2025
+> 🏆 165 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,6 +50,42 @@ const prathgeb = {
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                782 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌆 Daytime                895 commits         ███████████░░░░░░░░░░░░░░   42.60 % 
+🌃 Evening                418 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Tuesday                  339 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Wednesday                428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Thursday                 380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Friday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Saturday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Sunday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -61,7 +99,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:48:00 UTC
+ Last Updated on 18/09/2025 01:47:44 UTC
 <!--END_SECTION:waka-->
 
 ---
