@@ -32,8 +32,6 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.19%20million%20lines%20of%20code-blue?style=flat)
@@ -50,42 +48,6 @@ const prathgeb = {
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1039 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
-🌆 Daytime                1271 commits        ███████████░░░░░░░░░░░░░░   43.69 % 
-🌃 Evening                588 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   600 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Wednesday                521 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Thursday                 528 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Friday                   414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Sunday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -99,7 +61,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 02:56:38 UTC
+ Last Updated on 02/02/2026 02:46:00 UTC
 <!--END_SECTION:waka-->
 
 ---
