@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+... More infos about me: [Github - Pages](https://prathgeb.github.io)
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
