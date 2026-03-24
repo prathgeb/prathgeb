@@ -52,60 +52,20 @@ const prathgeb = {
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                968 commits         █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌆 Daytime                1215 commits        ███████████░░░░░░░░░░░░░░   44.51 % 
-🌃 Evening                538 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   589 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Tuesday                  418 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Friday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-PHP                      3 hrs 25 mins       █████████████████████░░░░   83.71 % 
-HTTP Request             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Twig                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-🔥 Editors: 
-PhpStorm                 4 hrs 5 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     60 repos            ██████████████░░░░░░░░░░░   55.56 % 
-PHP                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Java                     66 repos            ██████████████░░░░░░░░░░░   57.39 % 
+HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+PHP                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
 
 
- Last Updated on 23/03/2026 02:49:59 UTC
+ Last Updated on 24/03/2026 02:40:47 UTC
 <!--END_SECTION:waka-->
 
 ---
