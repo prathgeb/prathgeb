@@ -34,6 +34,8 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue?style=flat)
@@ -50,20 +52,60 @@ const prathgeb = {
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1110 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌆 Daytime                1370 commits        ███████████░░░░░░░░░░░░░░   43.81 % 
+🌃 Evening                637 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   680 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Tuesday                  492 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Wednesday                550 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 546 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Friday                   434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Saturday                 194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Sunday                   231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+Java                     6 hrs 17 mins       ██████████████░░░░░░░░░░░   55.21 % 
+XML                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Text                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+PHP                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+
+🔥 Editors: 
+PhpStorm                 11 hrs 24 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
-Java                     68 repos            ██████████████░░░░░░░░░░░   57.14 % 
-PHP                      14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Java                     75 repos            ███████████████░░░░░░░░░░   59.06 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+PHP                      14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 04:13:25 UTC
+ Last Updated on 19/05/2026 04:07:44 UTC
 <!--END_SECTION:waka-->
 
 ---
