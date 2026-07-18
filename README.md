@@ -34,17 +34,17 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.3 kB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2026
+> 🏆 212 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,6 +52,46 @@ const prathgeb = {
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1430 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌆 Daytime                1724 commits        ███████████░░░░░░░░░░░░░░   43.41 % 
+🌃 Evening                804 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   870 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Tuesday                  684 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Wednesday                684 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 662 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Sunday                   290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Vienna
+
+💬 Programming Languages: 
+PHP                      2 hrs 17 mins       ████████████░░░░░░░░░░░░░   49.27 % 
+Java                     1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Twig                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+
+🔥 Editors: 
+PhpStorm                 4 hrs 39 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -65,7 +105,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 03:20:04 UTC
+ Last Updated on 18/07/2026 02:55:55 UTC
 <!--END_SECTION:waka-->
 
 ---
