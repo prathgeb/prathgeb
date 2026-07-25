@@ -50,47 +50,6 @@ const prathgeb = {
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1336 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌆 Daytime                1637 commits        ███████████░░░░░░░░░░░░░░   43.85 % 
-🌃 Evening                748 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   825 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Tuesday                  634 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Sunday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Vienna
-
-💬 Programming Languages: 
-Java                     4 hrs 21 mins       ████████████░░░░░░░░░░░░░   47.90 % 
-PHP                      2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Twig                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-HTTP Request             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-
-🔥 Editors: 
-PhpStorm                 5 hrs 28 mins       ███████████████░░░░░░░░░░   60.25 % 
-Cursor                   3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-
-💻 Operating System: 
-Windows                  9 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -104,7 +63,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:21:08 UTC
+ Last Updated on 25/07/2026 03:20:07 UTC
 <!--END_SECTION:waka-->
 
 ---
