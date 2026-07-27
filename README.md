@@ -79,18 +79,18 @@ Sunday                   277 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Java                     3 hrs 42 mins       ██████████████░░░░░░░░░░░   55.60 % 
-PHP                      1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Twig                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTTP Request             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Java                     4 hrs 5 mins        ██████████████░░░░░░░░░░░   57.98 % 
+PHP                      1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Twig                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+HTTP Request             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 36 mins       ██████████████░░░░░░░░░░░   54.17 % 
-PhpStorm                 3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
+Cursor                   3 hrs 36 mins       █████████████░░░░░░░░░░░░   51.20 % 
+PhpStorm                 3 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.80 % 
 
 💻 Operating System: 
-Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +106,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:33:39 UTC
+ Last Updated on 27/07/2026 03:41:10 UTC
 <!--END_SECTION:waka-->
 
 ---
