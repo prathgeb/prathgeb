@@ -34,19 +34,19 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.2 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 237 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1336 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌆 Daytime                1643 commits        ███████████░░░░░░░░░░░░░░   43.94 % 
-🌃 Evening                748 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+🌞 Morning                1228 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
+🌆 Daytime                1543 commits        ███████████░░░░░░░░░░░░░░   44.49 % 
+🌃 Evening                686 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   831 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Tuesday                  634 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Sunday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Monday                   782 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Tuesday                  577 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 576 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Friday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 
@@ -81,41 +81,41 @@ Sunday                   277 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      2 hrs 41 mins       █████████████░░░░░░░░░░░░   50.24 % 
-Java                     1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-HTTP Request             30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Twig                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-HTTP                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Java                     3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
+PHP                      3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
+Twig                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+HTTP Request             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+HTTP                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-PhpStorm                 4 hrs 56 mins       ███████████████████████░░   92.52 % 
-Cursor                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+PhpStorm                 8 hrs 25 mins       ███████████████████████░░   92.92 % 
+Cursor                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (83.28%)
+⏱ AI Coding Time: 7 hrs 47 mins (85.92%)
 
-✍️ 4,313 lines written by AI, 436 lines written by hand (90.82% AI-written)
+✍️ 8,253 lines written by AI, 1,063 lines written by hand (88.59% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 57 AI Prompts
+🧠 18 AI Sessions, 111 AI Prompts
 
-Cursor                   4,420 lines         █████████████████████████   98.03 % 
-Grok                     89 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Cursor                   8,966 lines         ████████████████████████░   95.44 % 
+Grok                     428 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.82% of written lines came from AI
-📄 Detailed Prompter — average 1,034 characters per prompt
+🤖 AI-Driven — 88.59% of written lines came from AI
+📄 Detailed Prompter — average 763 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 10.94% of changed lines were hand-edited
+🚀 High AI Trust — 11.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -123,7 +123,7 @@ Grok                     89 lines            ░░░░░░░░░░░�
 ```text
 Java                     81 repos            ███████████████░░░░░░░░░░   60.90 % 
 HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-PHP                      14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+PHP                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
@@ -131,7 +131,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:49:54 UTC
+ Last Updated on 31/07/2026 03:32:46 UTC
 <!--END_SECTION:waka-->
 
 ---
