@@ -81,41 +81,41 @@ Sunday                   277 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
-Java                     3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
-Twig                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-HTTP Request             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+PHP                      3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+Java                     2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+Twig                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+HTTP Request             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-PhpStorm                 9 hrs 30 mins       ████████████████████████░   94.89 % 
-Cursor                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+PhpStorm                 8 hrs 12 mins       ████████████████████████░   94.12 % 
+Cursor                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 Operating System: 
-Windows                  10 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  8 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 45 mins (87.28%)
+⏱ AI Coding Time: 7 hrs 30 mins (86.06%)
 
-✍️ 11,287 lines written by AI, 1,063 lines written by hand (91.39% AI-written)
+✍️ 10,415 lines written by AI, 1,054 lines written by hand (90.81% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 123 AI Prompts
+🧠 23 AI Sessions, 105 AI Prompts
 
-Cursor                   12,678 lines        █████████████████████████   99.16 % 
-Grok                     108 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Cursor                   11,778 lines        █████████████████████████   99.09 % 
+Grok                     108 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.39% of written lines came from AI
-📄 Detailed Prompter — average 822 characters per prompt
+🤖 AI-Driven — 90.81% of written lines came from AI
+📝 Concise Prompter — average 472 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.46% of changed lines were hand-edited
+🚀 High AI Trust — 9.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -131,7 +131,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 03:30:59 UTC
+ Last Updated on 03/08/2026 03:33:31 UTC
 <!--END_SECTION:waka-->
 
 ---
