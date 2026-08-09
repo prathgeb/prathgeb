@@ -34,9 +34,9 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C177%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C177%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,41 +81,41 @@ Sunday                   333 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Vue                      3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
-TypeScript               2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Java                     1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-PHP                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Vue                      1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+TypeScript               1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Java                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+PHP                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-PhpStorm                 10 hrs 10 mins      ████████████████████████░   95.55 % 
-Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+PhpStorm                 4 hrs 42 mins       ██████████████████████░░░   89.48 % 
+Cursor                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 
 💻 Operating System: 
-Windows                  10 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 31 mins (98.83%)
+⏱ AI Coding Time: 5 hrs 7 mins (97.62%)
 
-✍️ 18,554 lines written by AI, 24 lines written by hand (99.87% AI-written)
+✍️ 4,884 lines written by AI, 24 lines written by hand (99.51% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 156 AI Prompts
+🧠 14 AI Sessions, 82 AI Prompts
 
-Cursor                   20,646 lines        █████████████████████████   99.93 % 
-Grok                     15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Cursor                   5,883 lines         █████████████████████████   99.81 % 
+Grok                     11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 320 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -131,7 +131,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 02:01:16 UTC
+ Last Updated on 09/08/2026 02:08:45 UTC
 <!--END_SECTION:waka-->
 
 ---
