@@ -40,13 +40,13 @@ const prathgeb = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.3 kB Used in GitHub's Storage 
  > 
-> 🏆 240 Contributions in the Year 2026
+> 🏆 253 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1541 commits        █████████░░░░░░░░░░░░░░░░   35.24 % 
-🌆 Daytime                1913 commits        ███████████░░░░░░░░░░░░░░   43.75 % 
-🌃 Evening                903 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+🌞 Morning                1303 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌆 Daytime                1673 commits        ███████████░░░░░░░░░░░░░░   44.42 % 
+🌃 Evening                776 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   987 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Tuesday                  761 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Wednesday                724 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Thursday                 728 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Friday                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 262 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Sunday                   333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Monday                   877 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Tuesday                  627 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 618 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Friday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 232 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Sunday                   298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 
 
@@ -81,41 +81,41 @@ Sunday                   333 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Vue                      1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-TypeScript               1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Java                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-PHP                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+TypeScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Java                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Vue                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+PHP                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🔥 Editors: 
-PhpStorm                 4 hrs 42 mins       ██████████████████████░░░   89.48 % 
-Cursor                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+PhpStorm                 2 hrs 35 mins       █████████████████████░░░░   82.42 % 
+Cursor                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 7 mins (97.62%)
+⏱ AI Coding Time: 3 hrs 1 min (96.02%)
 
-✍️ 4,884 lines written by AI, 24 lines written by hand (99.51% AI-written)
+✍️ 1,469 lines written by AI, 24 lines written by hand (98.39% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 82 AI Prompts
+🧠 9 AI Sessions, 48 AI Prompts
 
-Cursor                   5,883 lines         █████████████████████████   99.81 % 
-Grok                     11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Cursor                   2,234 lines         █████████████████████████   99.51 % 
+Grok                     11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📝 Concise Prompter — average 320 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🤖 AI-Driven — 98.39% of written lines came from AI
+📝 Concise Prompter — average 300 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,13 +125,13 @@ Java                     81 repos            ███████████�
 HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 PHP                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
 
 
- Last Updated on 09/08/2026 02:08:45 UTC
+ Last Updated on 10/08/2026 02:13:42 UTC
 <!--END_SECTION:waka-->
 
 ---
