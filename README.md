@@ -40,13 +40,13 @@ const prathgeb = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.3 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 263 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1333 commits        █████████░░░░░░░░░░░░░░░░   34.99 % 
-🌆 Daytime                1693 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                771 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+🌞 Morning                1238 commits        █████████░░░░░░░░░░░░░░░░   35.24 % 
+🌆 Daytime                1569 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
+🌃 Evening                695 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   861 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Wednesday                635 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 637 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Sunday                   298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Monday                   789 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Tuesday                  579 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 587 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Friday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Sunday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -132,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:43:50 UTC
+ Last Updated on 17/08/2026 01:42:42 UTC
 <!--END_SECTION:waka-->
 
 ---
