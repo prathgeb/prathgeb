@@ -81,42 +81,42 @@ Sunday                   245 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      7 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.54 % 
-YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Kotlin                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Twig                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+PHP                      7 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.95 % 
+YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Kotlin                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Twig                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-PhpStorm                 12 hrs 34 mins      █████████████████████░░░░   85.62 % 
-Agent                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Cursor                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+PhpStorm                 12 hrs 4 mins       █████████████████████░░░░   85.58 % 
+Agent                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Cursor                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 25 mins (98.2%)
+⏱ AI Coding Time: 13 hrs 50 mins (98.12%)
 
-✍️ 26,637 lines written by AI, 43 lines written by hand (99.84% AI-written)
+✍️ 25,789 lines written by AI, 43 lines written by hand (99.83% AI-written)
 
-🔤 324,715 Input Tokens, 324,715 Output Tokens
+🔤 324,170 Input Tokens, 324,170 Output Tokens
 
 💵 $2.35 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 221 AI Prompts
+🧠 70 AI Sessions, 208 AI Prompts
 
-Cursor                   27,145 lines        █████████████████████████   99.61 % 
-Grok                     107 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Cursor                   26,285 lines        █████████████████████████   99.59 % 
+Grok                     107 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 6,421 characters per prompt
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 6,798 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -132,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 01:46:23 UTC
+ Last Updated on 24/08/2026 01:43:59 UTC
 <!--END_SECTION:waka-->
 
 ---
