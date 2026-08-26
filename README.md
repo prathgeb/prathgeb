@@ -40,38 +40,38 @@ const prathgeb = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.3 kB Used in GitHub's Storage 
+> 📦 144.8 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2026
+> 🏆 281 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1127 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌆 Daytime                1445 commits        ███████████░░░░░░░░░░░░░░   44.93 % 
-🌃 Evening                634 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+🌞 Morning                1257 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌆 Daytime                1590 commits        ███████████░░░░░░░░░░░░░░   44.70 % 
+🌃 Evening                699 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   750 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Tuesday                  511 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Thursday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Friday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Sunday                   245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Monday                   812 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Tuesday                  580 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 591 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Friday                   478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Sunday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
@@ -81,58 +81,58 @@ Sunday                   245 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      7 hrs 1 min         █████████████░░░░░░░░░░░░   51.14 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Kotlin                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+PHP                      6 hrs 8 mins        █████████████████░░░░░░░░   66.01 % 
+YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Caddyfile                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-PhpStorm                 11 hrs 42 mins      █████████████████████░░░░   85.18 % 
-Agent                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Cursor                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+PhpStorm                 9 hrs               ████████████████████████░   96.78 % 
+Cursor                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  13 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 36 mins (99.11%)
+⏱ AI Coding Time: 9 hrs 12 mins (98.83%)
 
-✍️ 25,651 lines written by AI, 43 lines written by hand (99.83% AI-written)
+✍️ 20,667 lines written by AI, 42 lines written by hand (99.8% AI-written)
 
-🔤 324,170 Input Tokens, 324,170 Output Tokens
+🔤 33,098 Input Tokens, 33,098 Output Tokens
 
-💵 $2.35 Estimated AI Cost This Week
+💵 $0.24 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 203 AI Prompts
+🧠 12 AI Sessions, 106 AI Prompts
 
-Cursor                   26,137 lines        █████████████████████████   99.59 % 
-Grok                     107 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Cursor                   21,164 lines        █████████████████████████   99.95 % 
+Grok                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 6,961 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 1,582 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     81 repos            ███████████████░░░░░░░░░░   60.90 % 
-HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-PHP                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Java                     81 repos            ███████████████░░░░░░░░░░   60.45 % 
+HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+PHP                      15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
 
 
- Last Updated on 25/08/2026 01:39:04 UTC
+ Last Updated on 26/08/2026 01:44:23 UTC
 <!--END_SECTION:waka-->
 
 ---
