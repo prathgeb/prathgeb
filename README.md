@@ -40,7 +40,7 @@ const prathgeb = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.32%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1250 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌆 Daytime                1598 commits        ███████████░░░░░░░░░░░░░░   44.93 % 
-🌃 Evening                698 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+🌞 Morning                1447 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
+🌆 Daytime                1851 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
+🌃 Evening                856 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   817 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Tuesday                  576 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                612 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Friday                   472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Sunday                   272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Monday                   973 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Tuesday                  692 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Wednesday                690 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Friday                   536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Sunday                   332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 ```
 
 
@@ -81,42 +81,42 @@ Sunday                   272 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-Twig                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Smarty                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Java                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PHP                      2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
+Twig                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Smarty                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Java                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-PhpStorm                 7 hrs               ████████████████████░░░░░   80.11 % 
-Cursor                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+PhpStorm                 5 hrs 51 mins       █████████████████████░░░░   82.57 % 
+Cursor                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Agent                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 20 mins (95.32%)
+⏱ AI Coding Time: 6 hrs 56 mins (97.76%)
 
-✍️ 6,717 lines written by AI, 101 lines written by hand (98.52% AI-written)
+✍️ 4,632 lines written by AI, 68 lines written by hand (98.55% AI-written)
 
-🔤 76,644 Input Tokens, 103,145 Output Tokens
+🔤 41,321 Input Tokens, 67,822 Output Tokens
 
-💵 $0.77 Estimated AI Cost This Week
+💵 $0.49 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 94 AI Prompts
+🧠 27 AI Sessions, 72 AI Prompts
 
-Cursor                   7,948 lines         ███████████████████████░░   90.06 % 
-Grok                     877 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Cursor                   5,972 lines         ██████████████████████░░░   88.70 % 
+Grok                     761 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.52% of written lines came from AI
-📚 Verbose Prompter — average 3,652 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.28% of changed lines were hand-edited
+🤖 AI-Driven — 98.55% of written lines came from AI
+📚 Verbose Prompter — average 2,649 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -132,7 +132,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 03:59:50 UTC
+ Last Updated on 08/09/2026 04:02:36 UTC
 <!--END_SECTION:waka-->
 
 ---
