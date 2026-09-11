@@ -81,40 +81,40 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Java                     24 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Twig                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-PHP                      22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Twig                     5 mins              ███████████████░░░░░░░░░░   61.30 % 
+Text                     1 min               █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+PHP                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-PhpStorm                 1 hr 26 mins        ███████████████████████░░   91.89 % 
-Agent                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+PhpStorm                 8 mins              ███████████████████████░░   90.72 % 
+Agent                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (94.27%)
+⏱ AI Coding Time: 4 mins (43.36%)
 
-✍️ 284 lines written by AI, 22 lines written by hand (92.81% AI-written)
+✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
 
-🔤 202,715 Input Tokens, 202,715 Output Tokens
+🔤 200,110 Input Tokens, 200,110 Output Tokens
 
-💵 $1.62 Estimated AI Cost This Week
+💵 $1.60 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 21 AI Prompts
+🧠 5 AI Sessions, 6 AI Prompts
 
-Cursor                   308 lines           █████████████████████████   100.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.81% of written lines came from AI
-📚 Verbose Prompter — average 39,194 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 133,650 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +130,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 04:06:30 UTC
+ Last Updated on 11/09/2026 04:03:54 UTC
 <!--END_SECTION:waka-->
 
 ---
