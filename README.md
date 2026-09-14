@@ -81,38 +81,38 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Twig                     5 mins              ███████████████░░░░░░░░░░   61.30 % 
-Text                     1 min               █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-PHP                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Twig                     4 mins              ██████████████████░░░░░░░   70.53 % 
+PHP                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-PhpStorm                 8 mins              ███████████████████████░░   90.72 % 
-Agent                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+PhpStorm                 6 mins              ████████████████████████░   94.26 % 
+Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (43.36%)
+⏱ AI Coding Time: 1 min (24.06%)
 
 ✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
 
-🔤 200,110 Input Tokens, 200,110 Output Tokens
+🔤 1,304 Input Tokens, 1,304 Output Tokens
 
-💵 $1.60 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 133,650 characters per prompt
+📚 Verbose Prompter — average 1,980 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -130,7 +130,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 04:16:07 UTC
+ Last Updated on 14/09/2026 04:23:33 UTC
 <!--END_SECTION:waka-->
 
 ---
