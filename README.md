@@ -81,40 +81,19 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Twig                     4 mins              ██████████████████░░░░░░░   70.53 % 
-PHP                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+PHP                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PhpStorm                 6 mins              ████████████████████████░   94.26 % 
-Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+PhpStorm                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (24.06%)
-
-✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
-
-🔤 1,304 Input Tokens, 1,304 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 3 AI Prompts
-
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,980 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +109,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 04:23:33 UTC
+ Last Updated on 15/09/2026 04:23:45 UTC
 <!--END_SECTION:waka-->
 
 ---
