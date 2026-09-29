@@ -46,7 +46,7 @@ const prathgeb = {
 
 > 📦 132.3 kB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2026
+> 🏆 311 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1583 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌆 Daytime                1996 commits        ███████████░░░░░░░░░░░░░░   44.21 % 
-🌃 Evening                920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌞 Morning                1583 commits        █████████░░░░░░░░░░░░░░░░   35.01 % 
+🌆 Daytime                2003 commits        ███████████░░░░░░░░░░░░░░   44.29 % 
+🌃 Evening                920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1043 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Tuesday                  767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Wednesday                741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Thursday                 745 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Friday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Saturday                 276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Sunday                   359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Monday                   1045 commits        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Tuesday                  768 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                745 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Thursday                 745 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Friday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Sunday                   359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 
 
@@ -81,26 +81,26 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-HTTP Request             13 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Java                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-PHP                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Twig                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Smarty                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+HTTP Request             13 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Java                     12 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
+PHP                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Twig                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Cookie storage file      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 30 mins             █████████████████░░░░░░░░   69.54 % 
-Claude Code              13 mins             ████████░░░░░░░░░░░░░░░░░   30.46 % 
+PhpStorm                 28 mins             █████████████████░░░░░░░░   67.63 % 
+Claude Code              13 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (51.52%)
+⏱ AI Coding Time: 22 mins (54.76%)
 
-✍️ 47 lines written by AI, 1,463 lines written by hand (3.11% AI-written)
+✍️ 47 lines written by AI, 289 lines written by hand (13.99% AI-written)
 
 🔤 121,583 Input Tokens, 24,409 Output Tokens
 
@@ -111,10 +111,10 @@ Windows                  44 mins             ███████████�
 Sonnet                   49 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.11% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 13.99% of written lines came from AI
 📝 Concise Prompter — average 86 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 96.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +130,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 04:49:38 UTC
+ Last Updated on 29/09/2026 05:16:10 UTC
 <!--END_SECTION:waka-->
 
 ---
