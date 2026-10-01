@@ -34,7 +34,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2025%20mins-blue?style=flat)
 
@@ -57,8 +57,8 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1574 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌆 Daytime                1993 commits        ███████████░░░░░░░░░░░░░░   44.27 % 
+🌞 Morning                1575 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
+🌆 Daytime                1993 commits        ███████████░░░░░░░░░░░░░░   44.26 % 
 🌃 Evening                919 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
@@ -67,8 +67,8 @@ const prathgeb = {
 ```text
 Monday                   1041 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
 Tuesday                  766 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Wednesday                738 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Wednesday                739 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 Friday                   580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Saturday                 276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 Sunday                   357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
@@ -81,40 +81,23 @@ Sunday                   357 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      39 mins             ████████████████████░░░░░   80.06 % 
-Java                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Twig                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+PHP                      36 mins             ████████████████████████░   97.16 % 
+Twig                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-PhpStorm                 40 mins             █████████████████████░░░░   82.24 % 
-Claude Code              8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+PhpStorm                 37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (17.76%)
-
-✍️ 47 lines written by AI, 76 lines written by hand (38.21% AI-written)
-
-🔤 119,153 Input Tokens, 23,638 Output Tokens
-
-💵 $1.94 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Sonnet                   49 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.21% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.8% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -130,7 +113,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 05:03:15 UTC
+ Last Updated on 01/10/2026 05:16:46 UTC
 <!--END_SECTION:waka-->
 
 ---
