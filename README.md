@@ -34,7 +34,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2026%20mins-blue?style=flat)
 
@@ -81,24 +81,24 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      49 mins             ████████████████░░░░░░░░░   62.44 % 
-Twig                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-HTTP Request             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+PHP                      49 mins             ██████████████░░░░░░░░░░░   56.67 % 
+Twig                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Smarty                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+HTTP Request             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-PhpStorm                 1 hr 17 mins        █████████████████████████   98.41 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+PhpStorm                 1 hr 25 mins        █████████████████████████   98.56 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (2.16%)
+⏱ AI Coding Time: 1 min (1.96%)
 
 ✍️ 0 lines written by AI, 513 lines written by hand (0.0% AI-written)
 
@@ -128,7 +128,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 05:04:30 UTC
+ Last Updated on 06/10/2026 05:52:14 UTC
 <!--END_SECTION:waka-->
 
 ---
