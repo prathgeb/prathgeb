@@ -81,25 +81,25 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-Java                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-PHP                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Smarty                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Java                     30 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Smarty                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+PHP                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 
 🔥 Editors: 
-PhpStorm                 1 hr 44 mins        ██████████████████████░░░   87.17 % 
-Agent                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PhpStorm                 1 hr 33 mins        █████████████████████░░░░   85.81 % 
+Agent                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (60.02%)
+⏱ AI Coding Time: 1 hr 12 mins (66.39%)
 
 ✍️ 645 lines written by AI, 11 lines written by hand (98.32% AI-written)
 
@@ -131,7 +131,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 05:11:55 UTC
+ Last Updated on 12/10/2026 05:24:39 UTC
 <!--END_SECTION:waka-->
 
 ---
