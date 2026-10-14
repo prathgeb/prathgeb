@@ -34,7 +34,7 @@ const prathgeb = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2026%20mins-blue?style=flat)
 
@@ -81,38 +81,23 @@ Sunday                   331 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      18 mins             █████████████░░░░░░░░░░░░   50.44 % 
-Bash                     14 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-HTTP Request             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Smarty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+PHP                      26 mins             ████████████████░░░░░░░░░   63.65 % 
+Bash                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTTP Request             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-PhpStorm                 34 mins             ███████████████████████░░   93.48 % 
-Cursor                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+PhpStorm                 41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (6.52%)
-
-✍️ 0 lines written by AI, 130 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 31 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -128,7 +113,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 06:23:33 UTC
+ Last Updated on 14/10/2026 04:24:59 UTC
 <!--END_SECTION:waka-->
 
 ---
