@@ -40,13 +40,13 @@ const prathgeb = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.3 kB Used in GitHub's Storage 
  > 
-> 🏆 387 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ const prathgeb = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1249 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌆 Daytime                1631 commits        ███████████░░░░░░░░░░░░░░   44.97 % 
-🌃 Evening                735 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌞 Morning                1249 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌆 Daytime                1632 commits        ███████████░░░░░░░░░░░░░░   44.93 % 
+🌃 Evening                739 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
 🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   851 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Tuesday                  589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Thursday                 585 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Saturday                 236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Sunday                   282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Monday                   851 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Tuesday                  589 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 590 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Sunday                   282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
@@ -81,23 +81,40 @@ Sunday                   282 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Vienna
 
 💬 Programming Languages: 
-PHP                      4 mins              █████████████░░░░░░░░░░░░   51.72 % 
-Twig                     4 mins              ███████████░░░░░░░░░░░░░░   45.71 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PHP                      2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.21 % 
+Other                    1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   40.04 % 
+Twig                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-PhpStorm                 8 mins              █████████████████████████   100.00 % 
+Claude Code              4 hrs 37 mins       ████████████████████████░   96.20 % 
+PhpStorm                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 38 mins (96.36%)
+
+✍️ 3,348 lines written by AI, 1,340 lines written by hand (71.42% AI-written)
+
+🔤 3,608,613 Input Tokens, 636,948 Output Tokens
+
+💵 $49.32 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 66 AI Prompts
+
+Sonnet                   3,371 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 71.42% of written lines came from AI
+📄 Detailed Prompter — average 1,426 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 28.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +130,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 05:15:57 UTC
+ Last Updated on 30/10/2026 05:15:45 UTC
 <!--END_SECTION:waka-->
 
 ---
